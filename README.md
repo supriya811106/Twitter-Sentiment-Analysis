@@ -11,7 +11,6 @@ This project performs sentiment analysis on Twitter data using machine learning 
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Introduction
 
